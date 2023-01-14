@@ -6,10 +6,10 @@
 ## the profession
 - `learning python`
 - *know a little bit of java*
-- `photoshop man`
+- `graphic designers`
 - editor
 - `professional at hardware & software`
-- worked at Advertising for 7 year
+- worked at Advertising for 8 year
 - `can do a lot of computer things for you :)`
 ---
 ### first thing i was coded :D
@@ -22,6 +22,5 @@ double b = a*1.8+32; # And this one changes centigrade to Fahrenheit
 System.out.println(b); # print the program
 ```
 ---
-> this page will be update soon 
 
 - **[my python teacher page]( https://github.com/mohammadmasoumi)**
