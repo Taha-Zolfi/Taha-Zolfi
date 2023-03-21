@@ -4,13 +4,11 @@
 **iranian**
 **who love video games and coding :)**
 ## the profession
-- `learning python`
-- *know a little bit of java*
+- python programmer
 - `graphic designers`
-- editor
-- `professional at hardware & software`
-- worked at Advertising for 8 year
-- `can do a lot of computer things for you :)`
+- professional at hardware & software
+- `worked at Advertising for 8 year`
+- can do a lot of computer things for you :)
 ---
 ### first thing i was coded :D
 *this program will change centigrade to Fahrenheit and its powerd by java*
