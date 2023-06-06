@@ -2,7 +2,7 @@
 
 **16 years old**
 **iranian**
-**who love video games and coding :)**
+**who love to design and coding :)**
 ## the profession
 - python programmer
 - `graphic designers`
